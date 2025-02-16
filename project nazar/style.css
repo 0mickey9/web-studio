@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1600px;
+  min-height: 5439px;
+  margin: 0 auto;
+  background: #ffffff;
+}
+
+.header {
+  width: 1600px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding: 0 210px;
+  background: #ff6e6e;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.digit {
+  font-family: Halyard Display;
+  font-weight: 600;
+  font-size: 30px;
+  color: #1E266D;
+}
+
+.sq {
+  width: 10px;
+  height: 15px;
+  margin-left: 5px;
+  display: flex;
+  gap: 3px;
+  width: 10px;
+  height: 15px;
+  margin-left: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.s {
+  width: 5px;
+  height: 5px;
+  background: #FF2E6A;
+  border-radius: 50%;
+  margin-top: 3px;
+}
+
+.s1 {
+  width: 5px;
+  height: 5px;
+  margin-top: 5px;
+  background: #FF2E6A;
+  border-radius: 50%;
+}
+
+.names {
+  display: flex;
+  gap: 30px;
+  margin-left: 85px;
+}
+.names a {
+  font-family: Halyard Text;
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration: none;
+  color: #1E266D;
+  transition: color 0.3s ease;
+}
+
+.contact {
+  font-family: Halyard Text;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: right;
+  margin-left: 293px;
+}
+
+.help {
+  margin-left: 34px;
+  width: 113px;
+  height: 40px;
+  border-radius: 100px;
+  background: #4690ff;
+  color: #fff;
+  font-family: Halyard Text;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
