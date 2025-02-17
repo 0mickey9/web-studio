@@ -101,14 +101,12 @@
   align-items: center;
   justify-content: center;
 }
-
-.textalogo {
+.textalogo{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
-
-.firstcenter {
+.firstcenter{
   width: 1178px;
   height: 118px;
   background: #ffc1c1;
@@ -120,9 +118,9 @@
   letter-spacing: 0%;
   margin-top: 144px;
   color: #1E266D;
+  
 }
-
-.everyone {
+.everyone{
   width: 1180px;
   height: 27px;
   font-family: Halyard Text;
@@ -133,5 +131,22 @@
   text-align: center;
   margin-top: 27px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*# sourceMappingURL=style.css.map */
