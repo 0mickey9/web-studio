@@ -340,11 +340,11 @@
   width: 1179px;
   height: 523px;
   border-width: 1px;
-  background: #8d8d8d;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+
 }
 
 
